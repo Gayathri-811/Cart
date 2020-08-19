@@ -1,0 +1,154 @@
+body {
+  background-color: #9bdeac;
+}
+
+.box {
+  margin: 100px;
+  background-color: #f7fbe1;
+  border-radius: 10px;
+  padding: 0 30px 0 30px;
+  height: 500px;
+}
+
+.menu {
+  padding-top: 30px;
+}
+
+.cart {
+  position: absolute;
+  right: 400px;
+  top: 80px;
+  padding-top: 30px;
+}
+
+.vl {
+  border-left: 6px solid black;
+  height: 450px;
+  position: absolute;
+  right: 500px;
+  top: 130px;
+  border-radius: 20px;
+}
+
+.hl {
+  right: 150px;
+  border-bottom: 6px solid black;
+  position: absolute;
+  width: 1060px;
+  border-radius: 10px;
+  top: 500px;
+}
+
+.mouse {
+  position: absolute;
+  top: 200px;
+  background-color: #e3dfc8;
+  width: 650px;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+
+.cpu {
+  position: absolute;
+  top: 250px;
+  background-color: #e3dfc8;
+  width: 650px;
+  margin-top: 20px;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+
+.keyboard {
+  position: absolute;
+  background-color: #e3dfc8;
+  top: 300px;
+  height: 50px;
+  width: 650px;
+  margin-top: 40px;
+  border-radius: 3px;
+  padding-left: 10px;
+}
+
+.button {
+  background-color: #fabea7;
+  border: none;
+  color: black;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px;
+  cursor: pointer;
+  position: absolute;
+  top: 6px;
+  right: 10px;
+  width: 29px;
+  height: 29px;
+  border-radius: 3px;
+}
+
+.button-type2 {
+  background-color: #fabea7;
+  position: absolute;
+  right: 120px;
+  border: none;
+  color: black;
+  border-radius: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.delete2 {
+  top: 220px;
+}
+
+.delete3 {
+  top: 250px;
+}
+
+.right1 {
+  position: absolute;
+  right: 140px;
+  height: 20px;
+  width: 350px;
+}
+
+.right2 {
+  position: absolute;
+  right: 140px;
+  top: 220px;
+  width: 350px;
+}
+
+.right3 {
+  position: absolute;
+  right: 140px;
+  top: 250px;
+  width: 350px;
+}
+
+.right4 {
+  position: absolute;
+  right: 140px;
+  top: 520px;
+  width: 350px;
+}
+
+span {
+  padding: 0 5rem 0 5rem;
+}
+
+.item1 {
+  margin-right: 25px;
+}
+
+.item2 {
+  margin-right: 22px;
+}
+
+.item4 {
+  padding: 0 8rem 0 8rem;
+}
